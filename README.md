@@ -16,7 +16,7 @@ The Powershell script in this repository is responsible for analyzing Windows Ev
 - Configuring the Log Analytics Workspace in Azure to insert custom logs containing geographic information (Latitude, Longitude, State and Country).<br /><br />
 - Configuring custom fields in Azure's Log Analytics Workspace for mapping geographic data to Azure Sentinel.<br /><br />
 - Configuring Azure Sentinel (Cloud SIEM) workbook to display global attacks (RDP brute force) on a map according to the location and magnitude of attacks.<br /><br />
-- Criação e configuração de máquinas virtuais no Azure
+- Creating and Configuring Virtual Machines in Azure
 <br />
 <br />
 
